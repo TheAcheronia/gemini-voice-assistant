@@ -39,6 +39,3 @@ Inside the file `config.py`, follow the comment out instructions. This step is n
 ```
 python main.py
 ```
-```
-python main.py
-```
